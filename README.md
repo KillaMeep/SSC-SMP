@@ -14,11 +14,4 @@ Once you're on the CurseForge website, you’ll find the download button as show
 
 Click the download button and follow the installation instructions provided on the website.
 
-## Step 3: Install and Set Up Minecraft Mods
-1. Open the CurseForge app after installation.
-2. Select **Minecraft** from the game list.
-3. Search for the SSC-SMP modpack (or import the provided modpack file if necessary).
-4. Click **Install** and wait for the process to complete.
-5. Once installed, launch Minecraft through CurseForge and join the server!
-
-Enjoy your time on SSC-SMP!
+## Step 3: Install and Set Up CurseForge.
