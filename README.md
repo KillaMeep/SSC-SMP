@@ -19,7 +19,14 @@ Click the download button and follow the installation instructions provided on t
 2. Follow the on-screen instructions, accepting the terms and conditions when prompted.
 3. Complete the installation and launch CurseForge.
 
-## Step 4: Import the SSC-SMP Modpack
+## Step 4: Download the SSC-SMP Modpack
+Before importing the modpack, you need to download the required `.zip` file.
+
+[Click here to download the SSC-SMP Modpack](https://github.com/KillaMeep/SSC-SMP/raw/refs/heads/main/Files/SSCMC.zip)
+
+Save this file in a location you can easily access, such as your **Downloads** folder.
+
+## Step 5: Import the SSC-SMP Modpack
 1. Once CurseForge is open, select **Minecraft** from the available game options.
 2. Click on the **Import Modpack** button, as shown in the image below:
 
@@ -29,14 +36,10 @@ Click the download button and follow the installation instructions provided on t
 
    ![Import ZIP File](https://github.com/KillaMeep/SSC-SMP/raw/main/Files/curseforgeimport.png?raw=true)
 
-4. Download the modpack file from the link below:
+4. Locate and select the **SSCMC.zip** file you downloaded earlier.
+5. Click **Open**, and CurseForge will begin installing the modpack.
 
-   [Download the SSC-SMP Modpack](https://github.com/KillaMeep/SSC-SMP/raw/refs/heads/main/Files/SSCMC.zip)
-
-5. Locate the downloaded `.zip` file and select it.
-6. Click **Open**, and CurseForge will begin installing the modpack.
-
-## Step 5: Launch the Modpack
+## Step 6: Launch the Modpack
 1. Navigate to the **My Modpacks** tab in CurseForge.
 2. Click on the SSC-SMP modpack and press **Play**.
 3. Minecraft will launch with all the required mods pre-installed.
